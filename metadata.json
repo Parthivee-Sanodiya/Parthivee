@@ -1,0 +1,6 @@
+{
+  "name": "IMovies – Movie Ticket Booking",
+  "description": "Discover now showing and upcoming movies, select seats in real-time cinema auditoriums, securely book tickets with demo payments, and get verified digital e-tickets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
